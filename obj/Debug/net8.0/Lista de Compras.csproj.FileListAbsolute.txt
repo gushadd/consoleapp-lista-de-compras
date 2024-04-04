@@ -1,0 +1,28 @@
+C:\Meus Projetos\NET MAUI\Lista de Compras\bin\Debug\net8.0\Lista de Compras.exe
+C:\Meus Projetos\NET MAUI\Lista de Compras\bin\Debug\net8.0\Lista de Compras.deps.json
+C:\Meus Projetos\NET MAUI\Lista de Compras\bin\Debug\net8.0\Lista de Compras.runtimeconfig.json
+C:\Meus Projetos\NET MAUI\Lista de Compras\bin\Debug\net8.0\Lista de Compras.dll
+C:\Meus Projetos\NET MAUI\Lista de Compras\bin\Debug\net8.0\Lista de Compras.pdb
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.AssemblyInfoInputs.cache
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.AssemblyInfo.cs
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.dll
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\refint\Lista de Compras.dll
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.pdb
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\Lista de Compras.genruntimeconfig.cache
+C:\Meus Projetos\NET MAUI\Lista de Compras\obj\Debug\net8.0\ref\Lista de Compras.dll
+C:\Meus Projetos\Faculdade\Lista de Compras\bin\Debug\net8.0\Lista de Compras.exe
+C:\Meus Projetos\Faculdade\Lista de Compras\bin\Debug\net8.0\Lista de Compras.deps.json
+C:\Meus Projetos\Faculdade\Lista de Compras\bin\Debug\net8.0\Lista de Compras.runtimeconfig.json
+C:\Meus Projetos\Faculdade\Lista de Compras\bin\Debug\net8.0\Lista de Compras.dll
+C:\Meus Projetos\Faculdade\Lista de Compras\bin\Debug\net8.0\Lista de Compras.pdb
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.AssemblyInfoInputs.cache
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.AssemblyInfo.cs
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.dll
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\refint\Lista de Compras.dll
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.pdb
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\Lista de Compras.genruntimeconfig.cache
+C:\Meus Projetos\Faculdade\Lista de Compras\obj\Debug\net8.0\ref\Lista de Compras.dll
